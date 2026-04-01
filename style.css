@@ -18,6 +18,7 @@ main {
   position: relative;
   width: 520px;
   height: 430px;
+  text-align: center;
 
   transform: scale(1.5); 
   transform-origin: center;
@@ -115,7 +116,7 @@ main {
 .info {
   position: absolute;
   top: 140px;
-  left: 287px;
+  left: 283px;
   width: 155px;
   height: 190px;
   z-index: 2;
